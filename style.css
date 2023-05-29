@@ -1,0 +1,30 @@
+body {
+      background-repeat: no-repeat;
+      margin: 0;
+      color:white;
+      background-color: black;
+      background-image: url("img/mjhd_sid.gif");
+  }
+a:visited {
+  color: red;
+  text-decoration: none;
+}
+a:link {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+a:active {
+  color: white;
+  text-decoration: none;
+}
+where {
+  color:red;
+}
+#footer {
+  position:absolute;
+  top:586px;
+}
